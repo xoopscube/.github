@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report here
+name: "Bug report"
+description: "File a bug report here"
 title: "[BUG]: "
 labels: ["bug"]
 assignees: ["gigamaster"]
@@ -12,16 +12,16 @@ body:
         Thanks for taking the time to fill out this bug report.
         Make sure there aren't any open/closed issues for this topic.
         
- - type: dropdown
-   id: module
-   attributes:
-    label: Module?
+- type: dropdown
+  id: module
+  attributes:
+    label: Which module?
     options:
       - altsys
       - ckeditor
       - d3forum
-      - legacy-system
-      - legacy-Render
+      - legacy
+      - Render
       - message
       - pico
       - profile
