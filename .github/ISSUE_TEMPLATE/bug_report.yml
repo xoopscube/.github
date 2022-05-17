@@ -10,7 +10,7 @@ body:
         Thanks for taking the time to fill out this bug report.
         Make sure there aren't any open/closed issues for this topic.
         
-  - type: textarea
+  - type: dropdown
     id: module
     attributes:
       label: Which module?
