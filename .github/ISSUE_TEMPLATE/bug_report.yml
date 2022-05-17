@@ -27,7 +27,7 @@ body:
       - user
       - xupdate
     validations:
-    required: true
+      required: true
         
   - type: textarea
     id: bug-description
