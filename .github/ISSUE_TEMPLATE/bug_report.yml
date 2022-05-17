@@ -1,4 +1,4 @@
-name: ug Report 
+name: Bug Report 
 description: File a bug report here
 title: "[BUG]: "
 labels: ["bug"]
@@ -9,6 +9,24 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report.
         Make sure there aren't any open/closed issues for this topic.
+ - type: dropdown
+  id: module
+  attributes:
+    label: Module?
+    options:
+      - altsys
+      - ckeditor
+      - d3forum
+      - legacy-system
+      - legacy-Render
+      - message
+      - pico
+      - profile
+      - protector
+      - user
+      - xupdate
+  validations:
+    required: true
         
   - type: textarea
     id: bug-description
