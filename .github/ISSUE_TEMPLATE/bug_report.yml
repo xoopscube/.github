@@ -12,11 +12,11 @@ body:
         Thanks for taking the time to fill out this bug report.
         Make sure there aren't any open/closed issues for this topic.
         
-- type: dropdown
-  id: module
-  attributes:
-    label: Which module?
-    options:
+  - type: textarea
+    id: module
+    attributes:
+      label: Which module?
+      options:
       - altsys
       - ckeditor
       - d3forum
@@ -28,7 +28,7 @@ body:
       - protector
       - user
       - xupdate
-  validations:
+    validations:
     required: true
         
   - type: textarea
