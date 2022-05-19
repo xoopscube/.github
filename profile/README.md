@@ -1,4 +1,4 @@
-<h1>XOOPSCube Project</h1>
+<h1>The XOOPSCube Project</h1>
 
 ### Web Application Platform- Simple, Secure and Scalable
 
