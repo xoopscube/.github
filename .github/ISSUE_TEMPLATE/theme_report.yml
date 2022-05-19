@@ -25,6 +25,7 @@ body:
       - Pure
       - Tailwind
       - XLayout
+      - Other...
     validations:
       required: true
         
