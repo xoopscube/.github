@@ -21,7 +21,7 @@ body:
       - Foundation
       - Material
       - Metro
-      - Pico
+      - PicoCSS
       - Pure
       - Tailwind
       - XLayout
