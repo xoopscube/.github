@@ -18,13 +18,23 @@ body:
       - altsys
       - ckeditor
       - d3forum
+      - lecat
+      - lefeed
+      - legroup
+      - leimg
+      - letag
       - legacy
       - Render
       - message
+      - multimenu
+      - pical
       - pico
       - profile
       - protector
+      - sitemap
       - user
+      - xcck
+      - xelfinder
       - xupdate
     validations:
       required: true
