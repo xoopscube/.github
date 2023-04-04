@@ -2,8 +2,7 @@
 
 ### Simple, Secure and Scalable — Web Application Platform
 
-XOOPSCube Legacy (XCL) is a free open-source Web Application Platform (WAP). Simple extract to your web document root and run the Installation Wizard.  
-The XCL bundle package is designed for easy usage and to benefit from the performance of XCube Core and the most popular web server stack: Apache, MySQL and PHP.  
+XOOPSCube Legacy (XCL) is a free open-source Web Application Platform (WAP). The **XCL bundle package** is designed for easy usage and to benefit from the performance of XCube Core and the most popular web server stack: Apache, MySQL and PHP — Simple extract to your web document root and run the Installation Wizard.   
 
 **Out of the box** 
 - Content Management System, Cache, Duplicatable Modules (multisites), User Groups Management, Themes, Search
