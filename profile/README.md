@@ -4,12 +4,13 @@
 
 ### Simple, Secure and Scalable — Web Application Platform
 
-XOOPSCube Legacy (XCL) is a free open-source Web Application Platform (WAP). The **XCL bundle package** is designed for easy usage and to benefit from the performance of XCube Core and the most popular web server stack: Apache, MySQL and PHP — simple clone or extract zip archive into a directory in your webroot, open your browser and run the Installation Wizard :  English, Français, 日本語, Português, Pусский.
+XOOPSCube Legacy (XCL) is a free open-source Web Application Platform (WAP, CMS) empowering webmasters to create dynamic and content rich websites with ease. The **XCL bundle package** is designed for easy usage and to benefit from the performance of XCube Core and the most popular web server stack: Apache, MySQL and PHP — simply clone the repository or extract the zip archive to a directory in the root directory of your website, open a browser and run the installation wizard :  English, Français, 日本語, Português, Pусский.
 
-**XCL Bundle Package — out of the box features**   
+**XCL Bundle Package — out of the box**   
 
-The main advantages of a general purpose web application, and low code development approach, are that you can install it yourself by following the simple instructions of the installation wizard. The web control panel is user-friendly and the interface simplifies the process of creating and managing content, user permissions and updates. You no longer need to download archives separately and upload them manually. X-Update Manager provides one-click functionality to help you get and deploy add-ons. There are no contracts, hidden costs, limitations or restrictions.
+The main advantages of a general purpose web application and low code development approach is that you can install it yourself by following the simple instructions of the installation wizard. The web-based Control Panel is user-friendly and the user interface makes it easy to manage multiple instances, user permissions, contentw and updatew. You no longer need to download archives separately and upload them manually. X-Update Manager provides one-click functionality to help you get and deploy add-ons. 
 
+- Scalability without costly contracts, hosting cloud hidden costs, limitations or restrictions.
 - Content Management System, Cache, Duplicatable Modules (multisites), User Groups Management, Themes, built-in Search
 - File Manager with WYSIWYG editors, code & graphics, gui-based cloud storage: Box, Dropbox, GoogleDrive, OneDrive, FTP
 - X-Update Manager get & deploy from stores in GitHub, Gitlab or any other public or private, local or remote repository
