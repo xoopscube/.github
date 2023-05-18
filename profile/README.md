@@ -1,5 +1,7 @@
 <h1>The XOOPSCube Project</h1>
 
+[![DEV](https://img.shields.io/badge/Developed%20in%20Japan-bc0027?style=for-the-badge&labelColor=fff&logoWidth=21&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSIjYmMwMDI3IiBkPSJNOCA0YTQgNCAwIDEgMSAwIDhhNCA0IDAgMCAxIDAtOFoiLz48L3N2Zz4=)](https://github.com/xoopscube) [![DESIGN](https://img.shields.io/badge/Enhanced%20in%20Switzerland-bc0027?style=for-the-badge&labelColor=bc0027&color=f1f2f3&logoWidth=27&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwIDE0aC02djZoLTR2LTZINHYtNGg2VjRoNHY2aDZ2NFoiLz48L3N2Zz4=)](https://github.com/xoopscube) 
+
 ### Simple, Secure and Scalable — Web Application Platform
 
 XOOPSCube Legacy (XCL) is a free open-source Web Application Platform (WAP). The **XCL bundle package** is designed for easy usage and to benefit from the performance of XCube Core and the most popular web server stack: Apache, MySQL and PHP — simple clone or extract zip archive into a directory in your webroot, open your browser and run the Installation Wizard :  English, Français, 日本語, Português, Pусский.
